@@ -28,7 +28,9 @@
 
 ## 📷 Screenshot
 
-![BruteForceSimulationTool Screenshot](da19e651-cdf8-4245-b283-a5601b52bcb4.png)
+![BruteForceSimulationTool Screenshot](https://github.com/mansi-singh21/Brute-Force-Simulation-Tool/blob/main/Screenshot%202025-07-18%20215937.png)
+<img width="1586" height="851" alt="Screenshot 2025-07-18 215937" src="https://github.com/user-attachments/assets/c8cb3f61-6b14-4a70-8a60-fe6639f7b899" />
+
 
 ---
 
